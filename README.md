@@ -29,7 +29,6 @@ This project took me approximately... The most challenging part was...today alon
 
 In this step, I'm going to... RAG stands for... retrieval augmented generation
 
-![Image](http://nextwork.ai/satisfied_lavender_silly_loquat/uploads/ai-devops-api_v3j7x5b9)
 
 ### Understanding the three parts of RAG
 
